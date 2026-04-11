@@ -25,3 +25,4 @@ flow that walks them through connecting their first workspace.
 ## Open questions
 
 - Do we offer a sample workspace to play in, or require a real GitHub repo upfront?
+- How much testing
